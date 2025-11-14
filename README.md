@@ -1,7 +1,7 @@
 #  Raaziq Nazeer | Data Analyst Portfolio
 
 Welcome to my Data Analytics Portfolio!  
-Here, I showcase real-world projects that demonstrate my ability to collect, clean, analyze, and visualize data to drive business insights.
+Here, I showcase my ability to collect, clean, analyze, and visualize data to drive business insights.
 
 ---
 
