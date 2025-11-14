@@ -1,11 +1,11 @@
-# 📊 Raaziq Nazeer | Data Analyst Portfolio
+#  Raaziq Nazeer | Data Analyst Portfolio
 
 Welcome to my Data Analytics Portfolio!  
 Here, I showcase real-world projects that demonstrate my ability to collect, clean, analyze, and visualize data to drive business insights.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m an aspiring **Data Analyst** with a background in Systems Development and a passion for turning data into meaningful insights.  
 My technical skills include:
@@ -16,7 +16,7 @@ My technical skills include:
 
 ---
 
-## 📂 Portfolio Projects
+##  Portfolio Projects
 
 | # | Project | Tools Used | Description |
 |---|----------|-------------|--------------|
@@ -28,7 +28,7 @@ My technical skills include:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Category | Tools & Languages |
 |-----------|------------------|
@@ -40,7 +40,7 @@ My technical skills include:
 
 ---
 
-## 📈 Learning & Future Projects
+##  Learning & Future Projects
 I’m continuously expanding my analytics toolkit — upcoming projects include:
 - Web scraping for market analysis  
 - Predictive modeling in healthcare  
@@ -48,12 +48,12 @@ I’m continuously expanding my analytics toolkit — upcoming projects include:
 
 ---
 
-## 📬 Contact
+##  Contact
 
-📧 **Email:** yourname@email.com  
-🔗 **LinkedIn:** [linkedin.com/in/raaziq-nazeer](https://linkedin.com/in/raaziq-nazeer)  
-💼 **GitHub:** [github.com/raaziqnazeer](https://github.com/raaziqnazeer)
+ **Email:** yourname@email.com  
+ **LinkedIn:** [linkedin.com/in/raaziq-nazeer](https://linkedin.com/in/raaziq-nazeer)  
+ **GitHub:** [github.com/raaziqnazeer](https://github.com/raaziqnazeer)
 
 ---
 
-⭐ *If you like my projects, feel free to star this repository or connect with me on LinkedIn!*
+ *If you like my projects, feel free to star this repository or connect with me on LinkedIn!*
